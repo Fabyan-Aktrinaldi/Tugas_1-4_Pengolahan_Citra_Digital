@@ -1,8 +1,10 @@
 # Praktikum Pengolahan Citra Digital (Tugas 1 sampai 4)
 
-Nama: Fabyan Aktrinaldi | NIM: F1G124029 | Kelas: A
-Mata kuliah: Pengolahan Citra Digital, Universitas Halu Oleo
-Dosen: Muhammad Riansyah Tohamba, S.T., M.Kom.
+- Nama: Fabyan Aktrinaldi 
+- NIM: F1G124029 
+- Kelas: A
+- Mata kuliah: Pengolahan Citra Digital
+- Dosen: Muhammad Riansyah Tohamba, S.T., M.Kom.
 
 ## Isi repo
 
@@ -14,9 +16,9 @@ Repo ini berisi Tugas 1 sampai 4. Tugas 5, 6, dan 7 ada di repo terpisah (lihat 
 | 2 | Warna pada Citra Digital (kanal BGR dan alternatifnya) | Laporan teori (PDF), tidak ada kode | Tidak ada kode | [tugas_02](https://github.com/Fabyan-Aktrinaldi/Tugas_1-4_Pengolahan_Citra_Digital/tree/main/tugas_02) |
 | 3 | Analisis Citra Ijazah (grayscale, histogram, diagnosis, enhancement) | Kode dan README | Disusun ulang | [tugas_03](https://github.com/Fabyan-Aktrinaldi/Tugas_1-4_Pengolahan_Citra_Digital/tree/main/tugas_03) |
 | 4 | Enhancement Nomor Ijazah untuk OCR | Kode dan README | Disusun ulang | [tugas_04](https://github.com/Fabyan-Aktrinaldi/Tugas_1-4_Pengolahan_Citra_Digital/tree/main/tugas_04) |
-| 5 | Enhancement untuk OCR (filter mean, median, Gaussian, dan sharpening) | Repo terpisah | [ISI: kode asli] | [ISI LINK REPO TUGAS 5] |
-| 6 | Deteksi tanda tangan | Repo terpisah | [ISI] | [ISI LINK REPO TUGAS 6] |
-| 7 | Mini project integrasi | Repo terpisah | [ISI] | [ISI LINK REPO TUGAS 7] |
+| 5 | Enhancement untuk OCR (filter mean, median, Gaussian, dan sharpening) | Repo terpisah | Kode Asli | [tugas_05](https://github.com/Fabyan-Aktrinaldi/Tugas_5_Enhancment_Pengolahan_Citra_Digital.git) |
+| 6 | Deteksi tanda tangan | Repo terpisah | Kode Asli | [tugas_06](https://github.com/Fabyan-Aktrinaldi/Tugas_6_MiniProject_TTD_Pengolahan_Citra_Digital.git) |
+| 7 | Mini project integrasi | Repo terpisah | Kode Asli | [tugas_07](https://github.com/Fabyan-Aktrinaldi/Tugas_7_MiniProject_Integrasi_Pengolahan_Citra_Digital.git) |
 
 ## Catatan tentang kode
 
